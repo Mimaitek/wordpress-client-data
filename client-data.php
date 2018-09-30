@@ -151,7 +151,7 @@ function client_data_page() {
 <input type="text" name="<?php echo $name_key; ?>" value="<?php echo $name; ?>" size="50"><br/>
 
 <label>Apellidos del cliente</label><br/>   
-<strong>ShortCode[apellidos]<//strong><br/>
+<strong>ShortCode[apellidos]</strong><br/>
 <input type="text" name="<?php echo $last_name_key; ?>" value="<?php echo $last_name; ?>" size="50"><br/>
 
 <label>Dirección del cliente</label><br/>  
@@ -171,7 +171,7 @@ function client_data_page() {
 <input type="text" name="<?php echo $email_key; ?>" value="<?php echo $email; ?>" size="50"><br/>
 
 <label>Teléfono del cliente</label><br/>
-<strong>ShortCode[telefono]<//strong><br/>
+<strong>ShortCode[telefono]</strong><br/>
 <input type="text" name="<?php echo $telephone_key; ?>" value="<?php echo $telephone; ?>" size="50"><br/>
 
 <label>Nombre de la página</label><br/>
